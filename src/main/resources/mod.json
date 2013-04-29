@@ -1,0 +1,3 @@
+{
+  "main":"groovy:io.vertx.mods.template.GroovyTemplateParser"
+}

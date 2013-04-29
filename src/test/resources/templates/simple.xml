@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns:gsp='http://groovy.codehaus.org/2005/gsp'>
+  <gsp:scriptlet>def greeting = "Hello ${world}"</gsp:scriptlet>
+  <gsp:expression>greeting</gsp:expression>
+</document>
