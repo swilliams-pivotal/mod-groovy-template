@@ -1,7 +1,4 @@
-# ProjectName
+mod-groovy-template
+===================
 
-A project summary goes here
-
-## A_set_of_build_instructions
-
-Put your build instructions here.
+A Groovy TemplateEngine parser for vert.x
